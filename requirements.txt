@@ -1,0 +1,22 @@
+# Quantum Computing Framework Dependencies
+
+# Core quantum libraries
+cirq==1.3.0
+openfermion==1.5.1
+
+# Numerical computation
+numpy==1.26.4
+scipy==1.12.0
+sympy==1.12
+
+# Data handling and visualization
+pandas==2.2.0
+matplotlib==3.8.2
+
+# Jupyter Notebook support
+jupyterlab==4.1.0
+ipykernel==6.29.0
+
+# Development tools (optional but recommended)
+black==24.1.1
+flake8==7.0.0
